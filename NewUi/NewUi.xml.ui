@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>D:\Code\cocos2dx\cocos2d-project\xyy001\NewUi</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>D:\Code\cocos2dx\cocos2d-project\xyy001\NewUi\Resources</Resources>
+  <Name>NewUi</Name>
+  <JsonFileName>NewUi.json</JsonFileName>
+  <JsonFolder>D:\Code\cocos2dx\cocos2d-project\xyy001\NewUi\Json</JsonFolder>
+  <JsonList>
+    <string>gameScene.json</string>
+    <string>ChoseCard.json</string>
+    <string>YesNoDlg.json</string>
+    <string>OkDlg.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>1280</Width>
+    <Height>768</Height>
+  </CanvasSize>
+  <filePath>D:\Code\cocos2dx\cocos2d-project\xyy001\NewUi\NewUi.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>NewUi0.plist</string>
+  </imageFileList>
+  <imagePngList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>gameScene.json</CurrentUIJson>
+</UIProject>
